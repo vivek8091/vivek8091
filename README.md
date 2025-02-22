@@ -5,7 +5,7 @@
   <br>
 -  🌱 I’m currently learning:
 - **ReactJS, Node.js, and Cloud Technologies**.
-
+  <br>
 - 🔭 I’m currently working on:
 - **Frontend Development, Web designs and Application design in Ionic(With Angular Support)**.  
   <br>
