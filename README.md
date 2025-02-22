@@ -1,16 +1,19 @@
-<h1 align="left">Hi, I'm Vivek Shukla! 👋</h1>
+<h1 align="left">💫 About Me:</h1>
 
-## 💫 About Me:
+-  🤝 I’m looking to collaborate on:
+- **Web Design (Frontend Development)**.
+
+-  🌱 I’m currently learning:
+- **ReactJS, Node.js, and Cloud Technologies**.
+
 - 🔭 I’m currently working on:
--    **Frontend Development**.  
-- 🌱 I’m currently learning:
--    **ReactJS, Node.js, and Cloud Technologies**.  
-- 🤝 I’m looking to collaborate on:
--    **Web Design (Frontend Development)**.  
+- **Frontend Development, Web designs and Application design in Ionic(With Angular Support)**.  
+  
 - 💬 Ask me about:
--    **HTML, CSS, JavaScript, Angular, Bootstrap**.  
+- **HTML, CSS, JavaScript, Angular, Bootstrap**.
+- 
 - 📫 How to reach me:
--    **[vivekshukla8091@gmail.com or [LinkedIn](https://www.linkedin.com/in/vivek-shukla-b26966276/)]()**.  
+- **[vivekshukla8091@gmail.com or [LinkedIn](https://www.linkedin.com/in/vivek-shukla-b26966276/)]()**.  
 
 ## 📌 Tech Stack:
 <p align="left">
