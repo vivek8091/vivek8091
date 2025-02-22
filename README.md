@@ -18,7 +18,7 @@
 - 💬 Ask me about:
 - **HTML, CSS, JavaScript, Angular, Bootstrap**.
   
-- <br>
+  <br>
 
 - 📫 How to reach me:
 - **[vivekshukla8091@gmail.com or [LinkedIn](https://www.linkedin.com/in/vivek-shukla-b26966276/)]()**.
