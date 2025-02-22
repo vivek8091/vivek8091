@@ -55,6 +55,18 @@ HTML, CSS, JavaScript, Angular, Bootstrap and Responsive Web Designs.
 ## 🏆 Top Contributed Repositories:
 ![Top Contributed Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivek8091&theme=dark&hide_border=true)
 
+## 🚀 Top Projects:
+- [🔗 Event Management Syatem Web Design in ReactJS](https://github.com/vivek8091/Event-management-System-in-React-js)
+- [🔗 Bootstrap Web Template using HTML,CSS,Bootstrap & JavaScript (Responsive)](https://github.com/vivek8091/Bootstrap-resonsive-template-2--append-bootstrap-)
+- [🔗 Bubble Game in JavaScript](https://github.com/vivek8091/Bubble-Game-Using-JavaScript)
+- [🔗 Budget Planner Web Design Using Angular(TypeScript)](https://github.com/vivek8091/budget-planner)
+- [🔗 Stone-Paper-Scissors Game in JavaScript](https://github.com/vivek8091/StonePaperScissors)
+
+## 🏆 GitHub Contributor Stats:
+[![trophy](https://github-profile-trophy.vercel.app/?username=vivek8091&rank=S,A,B&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 ---
 
 ⭐️ **Thanks for visiting my profile!** 👍
