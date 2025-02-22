@@ -1,15 +1,16 @@
 <h1 align="left">Hi, I'm Vivek Shukla! 👋</h1>
 
-<p align="left">
-  <img src="https://avatars.githubusercontent.com/u/72376007?s=400&u=27628a5f21a54fa43ff4a2d5bd45ea79e323e172&v=4" width="150" alt="Profile Picture">
-</p>
-
 ## 💫 About Me:
-- 🔭 I’m currently working on **MERN Stack Development**.  
-- 🌱 I’m currently learning **ReactJS, Node.js, and Cloud Technologies**.  
-- 🤝 I’m looking to collaborate on **Full-Stack Web and Mobile App Projects**.  
-- 💬 Ask me about **JavaScript, React, Angular, Ionic, and Backend Development**.  
-- 📫 How to reach me: **[Your Email or LinkedIn](your-link)**.  
+- 🔭 I’m currently working on:
+-    **Frontend Development**.  
+- 🌱 I’m currently learning:
+-    **ReactJS, Node.js, and Cloud Technologies**.  
+- 🤝 I’m looking to collaborate on:
+-    **Web Design (Frontend Development)**.  
+- 💬 Ask me about:
+-    **HTML, CSS, JavaScript, Angular, Bootstrap**.  
+- 📫 How to reach me:
+-    **[vivekshukla8091@gmail.com or [LinkedIn](https://www.linkedin.com/in/vivek-shukla-b26966276/)]()**.  
 
 ## 📌 Tech Stack:
 <p align="left">
