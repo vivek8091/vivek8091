@@ -1,6 +1,5 @@
 <h1 align="left">💫 About Me:</h1>
 
-<br>
 
 🤝 **I’m looking to collaborate on:**  
 Web Design (Frontend Development) Projects.
