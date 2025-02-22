@@ -17,11 +17,10 @@ Frontend Development, Web Designs, and Application Design in Ionic (With Angular
 HTML, CSS, JavaScript, Angular, Bootstrap and Responsive Web Designs. 
 
 
-📫 **How to reach me:**  
+
+## 📢 Connect with Me"
+
 📧 [vivekshukla8091@gmail.com](mailto:vivekshukla8091@gmail.com)
-
-
-## 📢 Connect with Me
 
 <p align="left">
   <a href="https://x.com/vivek_shuk10984" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
