@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vivek Shukla! 👋</h1>
 
 <p align="center">
-  <img src="your-profile-image-url" width="150" alt="Profile Picture">
+  <img src="https://avatars.githubusercontent.com/u/72376007?s=400&u=27628a5f21a54fa43ff4a2d5bd45ea79e323e172&v=4" width="150" alt="Profile Picture">
 </p>
 
 ## 🚀 About Me:
