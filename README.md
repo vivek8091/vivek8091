@@ -20,8 +20,6 @@ HTML, CSS, JavaScript, Angular, Bootstrap and Responsive Web Designs.
 
 ## 📢 Connect with Me"
 
-📧 [vivekshukla8091@gmail.com](mailto:vivekshukla8091@gmail.com)
-
 <p align="left">
   <a href="mailto:vivekshukla8091@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/vivek-shukla-b26966276/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
