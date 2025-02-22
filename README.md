@@ -43,6 +43,16 @@ HTML, CSS, JavaScript, Angular, Bootstrap and Responsive Web Designs.
 
 ---
 
+## 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivek8091&show_icons=true&theme=dark&hide_border=true)
+
+## 🔥 Streak Stats:
+![Your GitHub Streak](https://streak-stats.demolab.com?user=vivek8091&theme=dark&hide_border=true)
+
+## 🚀 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek8091&layout=compact&theme=dark&hide_border=true)
+
+
 ---
 
 ⭐️ **Thanks for visiting my profile!** 👍
