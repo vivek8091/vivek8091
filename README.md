@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Vivek Shukla! 👋</h1>
+<h1 align="left">Hi, I'm Vivek Shukla! 👋</h1>
 
-<p align="center">
+<p align="left">
   <img src="https://avatars.githubusercontent.com/u/72376007?s=400&u=27628a5f21a54fa43ff4a2d5bd45ea79e323e172&v=4" width="150" alt="Profile Picture">
 </p>
 
-## 🚀 About Me:
+## 💫 About Me:
 - 🔭 I’m currently working on **MERN Stack Development**.  
 - 🌱 I’m currently learning **ReactJS, Node.js, and Cloud Technologies**.  
 - 🤝 I’m looking to collaborate on **Full-Stack Web and Mobile App Projects**.  
