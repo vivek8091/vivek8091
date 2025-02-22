@@ -2,27 +2,29 @@
 
 -  🤝 I’m looking to collaborate on:
 - **Web Design (Frontend Development)**.
-- 
+ 
   <br>
   
 -  🌱 I’m currently learning:
 - **ReactJS, Node.js, and Cloud Technologies**.
-- 
+  
   <br>
   
 - 🔭 I’m currently working on:
 - **Frontend Development, Web designs and Application design in Ionic(With Angular Support)**.
-- 
+  
   <br>
   
 - 💬 Ask me about:
 - **HTML, CSS, JavaScript, Angular, Bootstrap**.
-- 
+  
 - <br>
 
 - 📫 How to reach me:
-- **[vivekshukla8091@gmail.com or [LinkedIn](https://www.linkedin.com/in/vivek-shukla-b26966276/)]()**.  
+- **[vivekshukla8091@gmail.com or [LinkedIn](https://www.linkedin.com/in/vivek-shukla-b26966276/)]()**.
+   
 <br>
+
 ## 📌 Tech Stack:
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
