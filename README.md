@@ -3,12 +3,12 @@
 <br>
 
 🤝 **I’m looking to collaborate on:**  
-Web Design (Frontend Development)  
+Web Design (Frontend Development) Projects.
 
 <br>
 
 🌱 **I’m currently learning:**  
-ReactJS, Node.js, and Cloud Technologies  
+MERN Stack Development [ReactJS,ExpressJS,NodeJS,MongoDB] And also learning MEAN Stack [Angular with TypeScript Support]
 
 <br>
 
@@ -18,7 +18,7 @@ Frontend Development, Web Designs, and Application Design in Ionic (With Angular
 <br>
 
 💬 **Ask me about:**  
-HTML, CSS, JavaScript, Angular, Bootstrap  
+HTML, CSS, JavaScript, Angular, Bootstrap and Responsive Web Designs. 
 
 <br>
 
