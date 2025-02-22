@@ -52,6 +52,8 @@ HTML, CSS, JavaScript, Angular, Bootstrap and Responsive Web Designs.
 ## 🚀 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek8091&layout=compact&theme=dark&hide_border=true)
 
+## 🏆 Top Contributed Repositories:
+![Top Contributed Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivek8091&theme=dark&hide_border=true)
 
 ---
 
