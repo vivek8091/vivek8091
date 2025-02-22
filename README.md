@@ -9,23 +9,19 @@ Web Design (Frontend Development) Projects.
 🌱 **I’m currently learning:**  
 MERN Stack Development [ReactJS,ExpressJS,NodeJS,MongoDB] And also learning MEAN Stack [Angular with TypeScript Support]
 
-<br>
 
 🔭 **I’m currently working on:**  
 Frontend Development, Web Designs, and Application Design in Ionic (With Angular Support)  
 
-<br>
 
 💬 **Ask me about:**  
 HTML, CSS, JavaScript, Angular, Bootstrap and Responsive Web Designs. 
 
-<br>
 
 📫 **How to reach me:**  
 📧 [vivekshukla8091@gmail.com](mailto:vivekshukla8091@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/vivek-shukla-b26966276/)  
 
-<br>
 
 ---
 
