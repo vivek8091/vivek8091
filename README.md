@@ -18,7 +18,7 @@ HTML, CSS, JavaScript, Angular, Bootstrap and Responsive Web Designs.
 
 
 
-## 📢 Connect with Me"
+## 🌐 Connect with Me:
 
 <p align="left">
   <a href="mailto:vivekshukla8091@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
