@@ -2,7 +2,7 @@
 
 
 🤝 **I’m looking to collaborate on:**  
-Web Design (Frontend Development) Projects.
+Front-end development Projects (HTML,css,javaScript,Bootstrap, reactJS,).
 
 
 🌱 **I’m currently learning:**  
