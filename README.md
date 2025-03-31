@@ -59,7 +59,6 @@ HTML, CSS, JavaScript, Angular, Bootstrap and Responsive Web Designs.
 - [🔗 Event Management Syatem Web Design in ReactJS](https://github.com/vivek8091/Event-management-System-in-React-js)
 - [🔗 Bootstrap Web Template using HTML,CSS,Bootstrap & JavaScript (Responsive)](https://github.com/vivek8091/Bootstrap-resonsive-template-2--append-bootstrap-)
 - [🔗 Bubble Game in JavaScript](https://github.com/vivek8091/Bubble-Game-Using-JavaScript)
-- [🔗 Budget Planner Web Design Using Angular(TypeScript)](https://github.com/vivek8091/budget-planner)
 - [🔗 Stone-Paper-Scissors Game in JavaScript](https://github.com/vivek8091/StonePaperScissors)
 
 ## 🏆 GitHub Contributor Stats:
