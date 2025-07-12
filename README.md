@@ -14,7 +14,7 @@ Frontend Development, Web Designs, and React.JS with Node.JS (Express.JS) to imp
 
 
 💬 **Ask me about:**  
-HTML, CSS, JavaScript, Angular, Bootstrap and Responsive Web Designs. 
+HTML, CSS, JavaScript, Angular, React.JS, Node.JS, Bootstrap and Responsive Web Designs. 
 
 
 
