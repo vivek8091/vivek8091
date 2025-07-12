@@ -10,7 +10,7 @@ MERN Stack Development [ReactJS,ExpressJS,NodeJS,MongoDB] And also learning MEAN
 
 
 🔭 **I’m currently working on:**  
-Frontend Development, Web Designs, and Application Design in Ionic (With Angular Support)  
+Frontend Development, Web Designs, and React.JS with Node.JS (Express.JS) to improve Full-stack capabilities. 
 
 
 💬 **Ask me about:**  
