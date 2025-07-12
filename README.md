@@ -2,11 +2,11 @@
 
 
 🤝 **I’m looking to collaborate on:**  
-Front-end development Projects (HTML,css,javaScript,Bootstrap, reactJS,).
+Front-end development Projects (HTML,css,javaScript,Bootstrap, React.JS, Node.JS, Express.JS).
 
 
 🌱 **I’m currently learning:**  
-MERN Stack Development [ReactJS,ExpressJS,NodeJS,MongoDB] And also learning MEAN Stack [Angular with TypeScript Support]
+MERN Stack Development [React.JS, Express.JS, Node.JS, MySql] And also learning MEAN Stack [Angular with TypeScript Support]
 
 
 🔭 **I’m currently working on:**  
